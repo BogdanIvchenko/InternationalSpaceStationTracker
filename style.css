@@ -1,0 +1,22 @@
+.title {
+  font-family: "Roboto Mono", monospace;
+  color: white;
+  text-align: left;
+  margin-left: 50px;
+}
+.mapdiv {
+  position: absolute;
+}
+.map {
+  position: absolute;
+}
+.station {
+  position: relative;
+  height: 20px;
+}
+
+body {
+  background-color: #182454;
+  margin: 0;
+  height: 100%;
+}
